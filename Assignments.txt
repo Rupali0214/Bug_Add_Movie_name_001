@@ -1,0 +1,36 @@
+//WAP to program to create a class Bank(rate of interest common) having static variable and static method
+//WAP to program to perform constructor chaining in the class Food
+//WAP to print details of Emp like id,name,sal,grade,phone,isPresent by taking input from user
+//WAP to call default constructor of Super class into sub class using super keyword
+//WAP to perform multilevel inheritance between classes College,Library,Book
+//1.WAP to define a class Student and in that overload a accept() method
+//2.Implements all of the programs of interface using anonymous inner class
+//WAP to write swicth case statements fOr checking string type of values
+/WAP that copies one array into another array
+	//int a[]={34,5,6,3,33,3,3233};
+	//int b[]=new
+	
+	//wAP that searches a given element from the array
+//WAP that copies one array into another array
+	//int a[]={34,5,6,3,33,3,3233};
+	//int b[]=new
+	
+	//wAP that searches a given element from the array
+//3.WAP  to take String type 2D array as an input
+
+****classnotes
+		https://classroom.google.com/u/1/c/NjIyNjU1MzkxODI2?cjc=tsswjw4
+
+WAp to reverse and delete and insert string by taking input from user
+WAp to delete string without using replace method
+//WAP that handle  Multiple exceptions using nested try catch like nullpointer,numberformat and StringIndex...exception
+
+
+3.WAP to convert uppercase letter into lowercase and lowercase letter into uppercase in given string
+//WAP to create a thread that findout the numbers which are even or odd or divisible by 5 or by 10
+
+//WAP to check whether given collections are having same size or not
+
+//WAP to count that given element occures in linked list
+
+//WAP that concats "@gmail.com" with the values of those entries whose length is 5
